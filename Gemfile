@@ -16,6 +16,7 @@ gem 'bson_ext', :platforms => :mri
 gem "mongoid", "2.0.1"
 gem 'devise'
 gem 'foreman'
+gem 'trinidad'
 
 # Bundle edge Rails instead:
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
